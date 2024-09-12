@@ -11,7 +11,7 @@
 ![test_case_1](ADI_Pattern_Detector/image/wavedrom_1.png)
 
 
-![test_case_2](ADI_Pattern_Detector/image\wavedrom_2.png)
+![test_case_2](ADI_Pattern_Detector/image/wavedrom_2.png)
 
 ## The schematic of archeticture
 
