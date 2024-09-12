@@ -8,7 +8,7 @@
 
 ## The expected Waveform
 
-![test_case_1](image\wavedrom_1.png)
+![test_case_1](ADI_Pattern_Detector/image/wavedrom_1.png)
 
 
 ![test_case_2](image\wavedrom_2.png)
